@@ -1,13 +1,8 @@
 <template>
-    <div > 
-        
-        
-        
+    <div >                         
         login aqui
         <b-button homevariant="success" @click="logar()">logar</b-button>
-
-        
-        
+                
     </div>  
   </template>
   
