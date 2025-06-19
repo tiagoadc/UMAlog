@@ -1,5 +1,5 @@
 <template>
-  <div class="about">   
+  <div class="about">
     <span>about aqui</span>
   </div>
 </template>
@@ -10,19 +10,17 @@
 export default {
   name: 'AboutView',
 
- components:{
- 
- },
+  components: {
 
- data:() => ({
-			texto: ''
-		}),
+  },
+
+  data: () => ({
+    texto: ''
+  }),
 }
 
 
 </script>
 
 
-<style>
-
-</style>
+<style></style>
